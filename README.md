@@ -10,3 +10,5 @@ Now you just have to start using it :)
 ```
 python evil-stalker.py
 ```
+  
+I recommend using proxies to use this tool.
