@@ -1,1 +1,1 @@
-<center><h1>evil-stalker</h1></center>
+<center><h1 style="color:blue;">evil-stalker</h1></center>
