@@ -4,7 +4,7 @@
 
 First of all, you must install the necessary libraries.
 ```
-  pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 Now you just have to start using it :) 
 ```
