@@ -3,8 +3,8 @@
 #### How to run
 
 First of all, you must install the necessary libraries.
-```bash
-./Kali -b
+```
+  pip install -r requirements.txt
 ```
 Now you just have to start using it :) 
 ```
