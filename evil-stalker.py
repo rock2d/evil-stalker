@@ -15,7 +15,7 @@ logo = print(Fore.LIGHTBLUE_EX + """
  |          ||\                    steam
   \        //_/                    etc
    \______//                       ------------
-  __|| __||                        maded by rock3d#2177
+  __|| __||                        maded by more#6123
  (____(____)   """.center(os.get_terminal_size().columns))
 print("")
 print("")
